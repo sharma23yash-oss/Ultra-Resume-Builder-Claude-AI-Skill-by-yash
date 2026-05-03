@@ -1,3 +1,39 @@
+## 🚀 Quick Start (2-Min Setup)
+
+Follow these steps to generate your ATS-optimized resume:
+
+### Step 1: Open Claude AI
+Go to Claude AI (https://claude.ai)
+
+### Step 2: Copy the Skill Prompt
+- Open `SKILL.md`
+- Copy the full content
+
+### Step 3: Paste in Claude
+- Paste the prompt into Claude AI
+
+### Step 4: Add Your Inputs
+Provide:
+- Your current resume
+- Job description (JD)
+
+### Step 5: Get Output
+Claude will generate:
+- ATS-optimized resume (95+ score)
+- Tailored content for company
+- Interview prep insights
+
+## 📌 Example
+
+**Input:**
+- Resume: BBA Student
+- Job: Marketing Intern at Amazon
+
+**Output:**
+- ATS Score: 96/100
+- Tailored Resume
+- Suggested Certifications
+  
 # 🎯 Ultra Resume Builder — Claude AI Skill
 
 > Generate ATS-optimized (95+ score), tailored resumes for any job 
