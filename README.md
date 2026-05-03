@@ -1,4 +1,5 @@
-⭐ Star this repo if it helps you
+⚡ Generate a 95+ ATS Resume in 2 Minutes — No coding required.⭐ Star this repo if it helps you
+
 📩 Connect on LinkedIn
 ## 🚀 Quick Start (2-Min Setup)
 
