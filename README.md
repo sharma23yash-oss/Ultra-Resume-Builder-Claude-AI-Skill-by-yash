@@ -1,3 +1,5 @@
+⭐ Star this repo if it helps you
+📩 Connect on LinkedIn
 ## 🚀 Quick Start (2-Min Setup)
 
 Follow these steps to generate your ATS-optimized resume:
@@ -108,3 +110,5 @@ Zero fabrication. Maximum reframing of real experience.
 ## License
 
 MIT — free to use, fork, and improve.
+⭐ Star this repo if it helps you
+📩 Connect on LinkedIn
